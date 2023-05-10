@@ -1,0 +1,104 @@
+html,
+body {
+    height: 100%;
+}
+
+.navbar {
+    background-color: #181818;
+
+}
+
+/* .navbar.sticky-top{
+    position: fixed !important;
+    top: 0 !important;
+    width: 100% !important;
+    z-index: 100 !important;
+} */
+
+.nav-link {
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+/* footer {
+    background-color: #181818;
+}
+
+.footerAll {
+    background-color: #181818;
+}
+
+.footerDivRede {
+    text-align: center;
+    padding: 40px;
+    border-bottom: 1px solid #303030;
+}
+
+.footerDivRede a {
+    margin: 10px;
+    padding-right: 20px;
+    color: rgb(140, 140, 140);
+    text-decoration: none;
+}
+
+.footerDivRede a:hover {
+    color: white;
+}
+
+.footerDivText {
+    text-align: center;
+    padding: 40px;
+    color: rgb(140, 140, 140);
+    font-size: 10px;
+}
+
+.footerDivCookies {
+    text-align: center;
+    padding: 40px;
+    border-bottom: 1px solid #303030;
+}
+
+.footerDivCookies a {
+    color: rgb(140, 140, 140);
+    text-decoration: none;
+    margin: 10px;
+}
+
+.footerDivCookies a:hover {
+    color: white;
+} */
+
+.bg-offcanvas {
+    background-color: #181818;
+}
+
+.font-text {
+    font-family: 'Viner Hand ITC', sans-serif;
+}
+
+.search-form {
+    min-width: 200px;
+    max-width: 100%;
+}
+
+/* Reduza o tamanho da fonte em telas menores */
+@media screen and (max-width: 768px) {
+    .search-form {
+        font-size: 0.8em;
+    }
+}
+
+.bg-color {
+    background-color: #ff5e14 !important;
+    color: white !important;
+}
+
+.bg-color:hover {
+    background-color: #ff5e14;
+}
+
+
+

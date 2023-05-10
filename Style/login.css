@@ -1,0 +1,30 @@
+
+.btn-bg {
+    background-color: #181818 !important;
+    width: 100%;
+}
+
+.btn-bg:hover {
+    background-color: #ff5e14 !important;
+}
+
+.frog-pass {
+    color: rgb(140, 140, 140);
+}
+
+.frog-pass:hover {
+    color: #ff5e14;
+}
+
+.noAccount {
+    text-decoration: none;
+    color: #ff5e14;
+}
+
+.noAccount:hover {
+    color: #ff5e14;
+}
+
+.space-login {
+    margin-left: 100px;
+}

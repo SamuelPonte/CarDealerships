@@ -1,0 +1,113 @@
+.space {
+    height: 300px;
+}
+
+.formStyle {
+    background-color: white;
+    padding: 1rem;
+    max-width: 800px;
+    border-radius: 0.5rem;
+    margin: auto;
+}
+
+.formStyle input {
+    height: 60px;
+    font-size: 25px;
+}
+
+.formStyle a {
+    color: #198754;
+}
+
+.GoSignup {
+    font-size: 20px;
+}
+
+.line1 {
+    height: 10px;
+    width: 200px;
+    border-bottom: 1px solid #000000;
+}
+
+/* .btnFav {
+    border: none;
+    background-color: white;
+    padding: 20px;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.btnFav:hover {
+    background-color: black;
+    color: white;
+} */
+
+.ahome {
+    text-decoration: none !important;
+    color: #ff5e14 !important;
+}
+
+.ahome:hover {
+    text-decoration: underline !important;
+}
+
+.RightLeft {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.priceStyle {
+    color: white !important;
+}
+
+.bg-AllCars {
+    background-color: #181818 !important;
+    border-radius: 15px !important;
+}
+
+.error-message {
+    color: red !important;
+}
+
+.bg-SellCar {
+    background-color: #181818 !important;
+    border-radius: 5px !important;
+}
+
+.btn-postAdvert {
+    background-color: #181818 !important;
+    width: 100%;
+}
+
+.btn-postAdvert:hover {
+    background-color: #ff5e14 !important;
+}
+
+.image-container {
+    width: 300px;
+    height: 280px;
+    object-fit: cover !important;
+}
+
+.container-MyAdverts{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.container-persData{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.btn-bgPersonal {
+    background-color: #ff5e14 !important;
+    color: white !important;
+    margin-top: 37px;
+    width: 100%;
+}
+
+.btn-bgPersonal:hover {
+    background-color: #ff5e14 !important;
+}

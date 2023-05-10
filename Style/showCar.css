@@ -1,0 +1,53 @@
+.mg-show {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.carousel-item img {
+    width: 1300px;
+    height: 800px;
+    object-fit: cover;
+}
+
+.container-carosel {
+    padding: 50px;
+}
+
+.bg-img {
+    background-color: #181818 !important;
+    border-radius: 10px !important;
+}
+
+.bg-user {
+    background-color: #181818 !important;
+    border-radius: 5px !important;
+}
+
+.style-aShow {
+    text-decoration: none !important;
+    color: black;
+}
+
+.style-aShow:hover {
+    color: #ff5e14;
+}
+
+.btn-message {
+    width: 100%;
+    background-color: #fff !important;
+}
+
+.btn-message:hover {
+    color: #fff !important;
+    background-color: #ff5e14 !important;
+}
+
+.user-fa {
+    color: #fff !important;
+    font-size: 50px;
+}
+
+.bg-carinfo {
+    background-color: #181818 !important;
+    border-radius: 10px !important;
+}
